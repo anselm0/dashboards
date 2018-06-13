@@ -13,4 +13,4 @@ This interactive dashboard allows you to explore a dataset by [Belly Button Biod
 * Bootstrap
 
 ### Screenshot
-![alt text](https://github.com/anselm0/dashboards/dirty-belly/bd-dash.png "Dirty Belly Screenshot")
+![alt text](https://github.com/anselm0/dashboards/blob/master/dirty-belly/bd-dash.png "Dirty Belly Screenshot")
