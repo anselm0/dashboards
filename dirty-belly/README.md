@@ -1,5 +1,5 @@
 # Belly Button Diversity
-This interactive dashboard app allows you to explore a dataset by [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity)
+This interactive dashboard app allows you to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity)
 
 I used Flask to create an API for the dataset and to serve the Javascript and HTML to my dashboard page.
 
